@@ -1,0 +1,29 @@
+    body {
+            background-color: lightblue;
+        }
+
+        /* Estilo para el div principal */
+        div {
+            font-size: 20px;
+        }
+
+        /* Estilo para el h2 */
+        h2 {
+            color: navy;
+            text-decoration: underline;
+        }
+
+        /* Estilo para los párrafos */
+        p {
+            color: navy;
+        }
+
+        /* Estilo para el segundo párrafo */
+        p:nth-of-type(2) {
+            text-transform: uppercase;
+        }
+
+        /* Estilo para las etiquetas span en cursiva */
+        span {
+            font-style: italic;
+        }
